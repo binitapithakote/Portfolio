@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <a href="#home" className="logo">
-        Sukuna<span>.</span>
+        Binita Pithakote Magar<span>.</span>
       </a>
 
       <ul className="nav-links">
